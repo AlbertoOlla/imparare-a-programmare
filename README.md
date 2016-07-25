@@ -30,12 +30,8 @@ Io penso di si, ti basterebbe prendere un terzo bicchiere!
 Ecco, la stessa cosa la puoi fare nella programmazione.
 Dopo che l'avrai risolto ti accorgerai di quanto era semplice questo esercizio e **di quanto imparare a programmare non sia poi cosi complicato.**
 
-![corso javascript](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/corso-javascript.png)
-
-
 ## Esercizio Finale: Carta, forbici, sasso, lizard, spock
-Se sei arrivato sino a qui vuol dire che hai completato tutti gli altri quindi complimenti!
-Voglio proporti un piccolo progetto finale per cercare di mettere in pratica tutte le nozioni che hai appena imparato, quello che voglio che realizzi è un piccolo gioco scritto in [javascript](https://developer.mozilla.org/it/docs/Web/JavaScript).
+![corso javascript](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/corso-javascript.png) Se sei arrivato sino a qui vuol dire che hai completato tutti gli altri quindi complimenti! Voglio proporti un piccolo progetto finale per cercare di mettere in pratica tutte le nozioni che hai appena imparato, quello che voglio che realizzi è un piccolo gioco scritto in [javascript](https://developer.mozilla.org/it/docs/Web/JavaScript).
 
 Il gioco in questione è "carta, forbici, sasso, lizard, spock" se non lo conosci ecco una spiegazione:
 >Le forbici tagliano la carta, la carta avvolge il sasso, il sasso uccide lizard, lizard avvelena spock, spock rompe le forbici, le forbici decapitano lizard, lizard mangia la carta, la carta invalida spock, spock vaporizza il sasso e come è sempre stato, il sasso rompe le forbici.
