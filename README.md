@@ -1,4 +1,4 @@
-![imparare a programmare](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/imparare-a-programmare.png)
+![imparare a programmare](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/immagini/imparare-a-programmare.png)
 
 # Esercizi pratici per imparare a programmare in Javascript
 
@@ -8,8 +8,8 @@ Ho deciso di inserire degli esercizi bonus per cercare di approfondire al meglio
 Puoi scaricarli per metterti alla prova, alcuni sono semplici e li risolverai in un attimo ma altri invece sono più complessi ed impiegherai più tempo, è perfettamente normale non preoccuparti. Non è importante che li riesca a risolvere subito, l'importante è provarci, ragionare e cercare di mettere in pratica tutte le cose che hai imparato durante le lezioni.
 Se non stai seguendo il corso ma vuoi diventare un programmatore da autodidatta puoi comunque provare a risolvere gli esercizi :)
 
+![le variabili](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/immagini/le-variabili.png)
 ## Primo Esercizio Bonus: Le variabili
-
 Questo esercizio è un classico, tutti coloro che vorrebbero sapere come iniziare a programmare dovrebbero partire proprio da questo esercizio, l'hanno visto tutti ed è uno scambio di valori con due variabili: `one` che contiene la stringa 'Star' e la variabile `two` che conviene invece 'Wars', quindi 'Star Wars' diviso in due.
 Fin qui tutto bene.
 Lo scopo dell'esercizio è spostare il contenuto della variabile `one` all'interno della variabile `two`, quindi `two` conterrà 'Star', mentre il contenuto della variabile `two` dovrà essere spostato all'interno della variabile `one`, quindi `one` conterrà 'Wars'.
@@ -30,8 +30,9 @@ Io penso di si, ti basterebbe prendere un terzo bicchiere!
 Ecco, la stessa cosa la puoi fare nella programmazione.
 Dopo che l'avrai risolto ti accorgerai di quanto era semplice questo esercizio e **di quanto imparare a programmare non sia poi cosi complicato.**
 
+![corso javascript](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/immagini/corso-javascript.png)
 ## Esercizio Finale: Carta, forbici, sasso, lizard, spock
-![corso javascript](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/corso-javascript.png) Se sei arrivato sino a qui vuol dire che hai completato tutti gli altri quindi complimenti! Voglio proporti un piccolo progetto finale per cercare di mettere in pratica tutte le nozioni che hai appena imparato, quello che voglio che realizzi è un piccolo gioco scritto in [javascript](https://developer.mozilla.org/it/docs/Web/JavaScript).
+Se sei arrivato sino a qui vuol dire che hai completato tutti gli altri quindi complimenti! Voglio proporti un piccolo progetto finale per cercare di mettere in pratica tutte le nozioni che hai appena imparato, quello che voglio che realizzi è un piccolo gioco scritto in [javascript](https://developer.mozilla.org/it/docs/Web/JavaScript).
 
 Il gioco in questione è "carta, forbici, sasso, lizard, spock" se non lo conosci ecco una spiegazione:
 >Le forbici tagliano la carta, la carta avvolge il sasso, il sasso uccide lizard, lizard avvelena spock, spock rompe le forbici, le forbici decapitano lizard, lizard mangia la carta, la carta invalida spock, spock vaporizza il sasso e come è sempre stato, il sasso rompe le forbici.
