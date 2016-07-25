@@ -1,11 +1,12 @@
+![imparare a programmare](https://github.com/AlbertoOlla/imparare-a-programmare/raw/master/imparare-a-programmare.png)
+
 # Esercizi pratici per imparare a programmare in Javascript
+
 Gli esercizi visti durante le normali lezioni del Corso Javascript ci danno più una conoscenza teorica dell'argomento ma anche tanti spunti interessanti.
-Ho deciso di inserire degli esercizi bonus per cercare di approfondire al meglio gli argomenti più importanti e risolvendo questi problemi reali ti aiuterà tantissimo ad [imparare a programmare](http://www.imparareaprogrammare.it) al meglio!
+Ho deciso di inserire degli esercizi bonus per cercare di approfondire al meglio gli argomenti più importanti, inoltre risolvere questi problemi reali ti aiuterà tantissimo ad [imparare a programmare](http://www.imparareaprogrammare.it) al meglio!
 
 puoi scaricarli per metterti alla prova, alcuni sono semplici e li risolverai in un attimo ma altri invece sono più complessi ed impiegherai più tempo, è perfettamente normale non preoccuparti. Non è importante che li riesca a risolvere subito, l'importante è provarci, ragionare e cercare di mettere in pratica tutte le cose che hai imparato durante le lezioni.
 Se non stai seguendo il corso ma vuoi diventare un programmatore da autodidatta puoi comunque provare a risolvere gli esercizi :)
-
-![imparare a programmare](https://github.com/AlbertoOlla/imparare-a-programmare/raw/master/imparare-a-programmare.png)
 
 ## Primo Esercizio Bonus: Le variabili
 
