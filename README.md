@@ -1,4 +1,4 @@
-![imparare a programmare](https://github.com/AlbertoOlla/imparare-a-programmare/raw/master/imparare-a-programmare.png)
+![imparare a programmare](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/imparare-a-programmare.png)
 
 # Esercizi pratici per imparare a programmare in Javascript
 
@@ -29,6 +29,9 @@ Immagina nel modo reale di avere questi due bicchieri davanti a te, nella tua cu
 Io penso di si, ti basterebbe prendere un terzo bicchiere!
 Ecco, la stessa cosa la puoi fare nella programmazione.
 Dopo che l'avrai risolto ti accorgerai di quanto era semplice questo esercizio e **di quanto imparare a programmare non sia poi cosi complicato.**
+
+![corso javascript](https://raw.githubusercontent.com/AlbertoOlla/imparare-a-programmare/master/corso-javascript.png)
+
 
 ## Esercizio Finale: Carta, forbici, sasso, lizard, spock
 Se sei arrivato sino a qui vuol dire che hai completato tutti gli altri quindi complimenti!
