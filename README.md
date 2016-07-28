@@ -3,7 +3,7 @@
 # Esercizi pratici per imparare a programmare in Javascript
 
 Gli esercizi visti durante le normali lezioni del Corso Javascript ci danno più una conoscenza teorica dell'argomento anche se con tanti spunti interessanti.
-Ho deciso di inserire degli esercizi bonus per cercare di approfondire al meglio gli argomenti più importanti. Inoltre, risolvere questi problemi reali ti aiuterà tantissimo ad[imparare a programmare](http://www.imparareaprogrammare.it) al meglio!
+Ho deciso di inserire degli esercizi bonus per cercare di approfondire al meglio gli argomenti più importanti. Inoltre, risolvere questi problemi reali ti aiuterà tantissimo ad [imparare a programmare](http://www.imparareaprogrammare.it) al meglio!
 
 Puoi scaricarli per metterti alla prova. Alcuni esercizi sono semplici e li risolverai in un attimo ma altri invece sono più complessi ed richiederanno più tempo, è perfettamente normale...non preoccuparti. Non è importante che li riesca a risolvere subito, l'importante è provarci, ragionare e cercare di mettere in pratica tutte le cose che hai imparato durante le lezioni. Se non stai seguendo il corso ma vuoi diventare un programmatore da autodidatta puoi comunque provare a risolvere gli esercizi :)
 
