@@ -1,5 +1,5 @@
 /*
-  Caldo o freddo
+  Carta, forbici, sasso, lizard e Spock
   Scrivi un programma che simuli una partita al gico Carta, forbici, sasso, lizard e Spock, se non lo conosci ecco una spiegazione del gioco:
   
     "Le Forbici tagliano la Carta, la Carta avvolge il Sasso, il Sasso uccide Lizard, Lizard avvelena Spock,
